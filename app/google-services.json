@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246532924266",
+    "project_id": "homework5-9a6e2",
+    "storage_bucket": "homework5-9a6e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246532924266:android:13ce11adb953cbc7487b13",
+        "android_client_info": {
+          "package_name": "com.example.davaleban5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246532924266-m9qpus18uqiddh79omtbaocd482ud60q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfgjvIWAi0Ck_VIZp4ZAMqcMjuFUh9oKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246532924266-m9qpus18uqiddh79omtbaocd482ud60q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
